@@ -10,10 +10,10 @@
       "filterable": 1
     },
     {
-      "key": "wolong",
-      "name": "臥龍資源",
+      "key": "suhao",
+      "name": "速好資源",
       "type": 1,
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://suhaozy.com/api.php/provide/vod",
       "searchable": 1,
       "quick": 1,
       "filterable": 1
@@ -55,15 +55,6 @@
       "filterable": 1
     },
     {
-      "key": "suhaom3u8",
-      "name": "速好資源",
-      "type": 1,
-      "api": "https://suhaozy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
       "key": "guangsu",
       "name": "光速資源",
       "type": 1,
@@ -77,87 +68,6 @@
       "name": "金鷹資源",
       "type": 1,
       "api": "https://jyzyapi.com/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kuaiche",
-      "name": "快車資源",
-      "type": 1,
-      "api": "https://caiji.kuaichezy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "luzi",
-      "name": "路子資源",
-      "type": 1,
-      "api": "https://lzzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "modu",
-      "name": "魔都資源",
-      "type": 1,
-      "api": "https://m3u8.moduapi.cc/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "niuxun",
-      "name": "牛訊資源",
-      "type": 1,
-      "api": "https://api.niuxunzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "piaoquan",
-      "name": "票圈資源",
-      "type": 1,
-      "api": "https://www.piaoquanzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "qianxun",
-      "name": "千尋資源",
-      "type": 1,
-      "api": "https://qianxunzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "shenteng",
-      "name": "神騰資源",
-      "type": 1,
-      "api": "https://shentengzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "suida",
-      "name": "速達資源",
-      "type": 1,
-      "api": "https://suida.me/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "sujie",
-      "name": "速解資源",
-      "type": 1,
-      "api": "https://www.sujiezy.com/api.php/provide/vod",
       "searchable": 1,
       "quick": 1,
       "filterable": 1
@@ -190,15 +100,6 @@
       "filterable": 1
     },
     {
-      "key": "xinyao",
-      "name": "新耀資源",
-      "type": 1,
-      "api": "https://xinyaozy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
       "key": "xunlei",
       "name": "迅雷資源",
       "type": 1,
@@ -217,64 +118,109 @@
       "filterable": 1
     },
     {
-      "key": "yiren",
-      "name": "億人資源",
-      "type": 1,
-      "api": "https://yirenzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "youku",
-      "name": "優酷資源",
-      "type": 1,
-      "api": "https://api.youkuzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "yuncai",
-      "name": "雲採資源",
-      "type": 1,
-      "api": "https://yuncaizy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "yuxi",
-      "name": "玉喜資源",
-      "type": 1,
-      "api": "https://yuxizy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zhaoshuo",
-      "name": "招碩資源",
-      "type": 1,
-      "api": "https://zhaoshuozy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
-      "key": "zhuixu",
-      "name": "追尋資源",
-      "type": 1,
-      "api": "https://zhuixuzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quick": 1,
-      "filterable": 1
-    },
-    {
       "key": "ziyun",
       "name": "紫雲資源",
       "type": 1,
       "api": "https://ziyunzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ikun",
+      "name": "iKun 資源",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongniu",
+      "name": "紅牛資源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaibo",
+      "name": "快播資源",
+      "type": 1,
+      "api": "https://www.kuaibozy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "liangzi",
+      "name": "量子資源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yidian",
+      "name": "一點資源",
+      "type": 1,
+      "api": "https://yidianzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪資源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subo",
+      "name": "速播資源",
+      "type": 1,
+      "api": "https://suboapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪華資源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "uquan",
+      "name": "優酷/U酷資源",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "modu",
+      "name": "魔都資源",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quick": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolong",
+      "name": "臥龍資源",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
       "quick": 1,
       "filterable": 1
